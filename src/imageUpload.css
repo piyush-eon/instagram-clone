@@ -1,0 +1,11 @@
+.imageupload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageupload__progess {
+  width: 100%;
+}
